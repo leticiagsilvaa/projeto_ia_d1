@@ -1,6 +1,6 @@
 # Relatório de Experimento (Opção D.1): Comparação entre BFS e IDS em Árvore (Tree-Search)
 
-**Equipa:**
+**Equipe:**
 * Ana Nínive Ribeiro de Oliveira
 * Bruno Leonardo Assis Pimentel
 * Everton Luan Gomes Batista
